@@ -3,8 +3,15 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
+title = "Quantum Processing"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+date = "2026"
+content = "Assisted the course instructor with collecting and organizing instructional materials, preparing course notes and lecture notes, and supporting the development of teaching content for the course."
+tags = [ "Quantum Computing"]
+
+[[items]]
+title = "Deep Learning"
+subtitle = "Teaching Assistant / Practical Sessions Instructor"
+date = "2026"
+content = "Supported a graduate-level course offered to M.Sc. and Ph.D. students by conducting hands-on Python coding sessions, preparing practical exercises, and designing course projects for students."
+tags = [ "Deep Learning", "Python"]

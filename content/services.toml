@@ -1,9 +1,17 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Work Experience"
+description = "Professional experience in teaching, technical training, consulting, and engineering."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Python & Web Instructor / Coach Consultant"
+subtitle = "Yasan Academy"
+date = "Sep 2023 – Present"
+content = "Working in multiple educational and consulting roles, including Python Instructor, Web Instructor, and Coach Consultant. Responsibilities include delivering practical programming courses, teaching Python and web development, supporting learners through project-based training, and providing coaching and consultation for students."
+tags = ["Python", "Web Development", "Teaching", "Coaching", 'AI']
+
+[[items]]
+title = "Summer Intern – Linear Control Laboratory"
+subtitle = "Sahand University of Technology"
+date = "Jun 2022 – Aug 2022"
+content = "Worked on a faulty control-system board as part of the Linear Control Laboratory. Diagnosed hardware problems, analyzed the defective circuit, and redesigned and implemented the board using electronic design and PCB development tools."
+tags = ["Control Systems", "Electronics", "Altium Designer", "Hardware"]

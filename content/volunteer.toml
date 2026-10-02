@@ -1,0 +1,31 @@
+type = "card"
+title = "Volunteer Experience"
+description = "Selected volunteer activities in IEEE, student scientific associations, and academic event organization."
+
+[[items]]
+title = "Vice Chair, IEEE Student Branch"
+subtitle = "Sahand University of Technology"
+date = "2025–2026"
+content = "Served as Vice Chair of the IEEE Student Branch for two years. Responsibilities included organizing workshops and training courses, coordinating student activities, and facilitating communication and collaboration between IEEE student branches."
+tags = ["IEEE", "Leadership", "Event Organization", "Student Activities"]
+
+[[items]]
+title = "Student Committee Member"
+subtitle = "IEEE Iran Section"
+date = "2024–2026"
+content = "Served as a member of the IEEE Iran Section Student Committee, contributing to the coordination of student activities and organizing monthly coordination meetings for planning and aligning activities across the Iran Section."
+tags = ["IEEE Iran Section", "Student Committee", "Coordination", "Volunteer Work"]
+
+[[items]]
+title = "Organizer, IntelliTech"
+subtitle = "Provincial Artificial Intelligence Event"
+date = "2025"
+content = "Contributed to the organization of IntelliTech, an artificial intelligence event held at the level of universities across the province. The event featured invited AI specialists and researchers from different parts of the country, with a focus on emerging developments and applications in artificial intelligence."
+tags = ["Artificial Intelligence", "Conference Organization", "Academic Events", "Networking"]
+
+[[items]]
+title = "Member, Electrical Engineering Scientific Association"
+subtitle = "Sahand University of Technology"
+date = "2022–2023"
+content = "Actively participated in the Electrical Engineering Scientific Association, contributing to the planning and organization of academic and student-focused activities, technical events, workshops, and educational programs for electrical engineering students."
+tags = ["Electrical Engineering", "Scientific Association", "Academic Activities", "Student Engagement"]

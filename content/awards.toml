@@ -1,27 +1,33 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Awards & Honors"
+description = "Academic honors, distinctions, and recognitions."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Member of Iran's National Elites Foundation"
+subtitle = "Iran National Elites Foundation"
+date = "2026"
+content = "Selected based on academic excellence and active contributions to scientific and student associations."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Member of the Office of Exceptional Talents"
+subtitle = "Sahand University of Technology"
+date = "2025–2026"
+content = "Recognized as an exceptional-talent student based on academic performance and achievements."
+
+[[items]]
+title = "Ranked 1st in Telecommunication Systems"
+subtitle = "M.Sc. Electrical Engineering, Sahand University of Technology"
+content = "Ranked 1st among students in the Telecommunication Systems program."
+date = "2025–2026"
+
+[[items]]
+title = "Ranked 2nd in Electronics"
+subtitle = "B.Sc. Electrical Engineering, Sahand University of Technology"
+content = "Ranked 2nd in the Electronics track based on undergraduate academic performance."
 date = "2024"
-content = "Description of the award."
+
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Exceptional Talent Admission to M.Sc. Program"
+subtitle = "Sahand University of Technology"
+content = "Admitted directly to the M.Sc. program in Electrical Engineering through the Exceptional Talent admission pathway, without taking the national graduate entrance examination."

@@ -116,9 +116,9 @@ export default function Profile({ author, social, features, researchInterests }:
                 <Image
                     src={author.avatar}
                     alt={author.name}
-                    width={256}
-                    height={256}
-                    className="w-full h-full object-cover object-[32%_center]"
+                    width={500}
+                    height={625}
+                    className="w-full h-full object-cover object-[50%_20%]"
                     priority
                 />
             </div>
@@ -128,6 +128,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 <h1 className="text-3xl font-serif font-bold text-primary mb-2">
                     {author.name}
                 </h1>
+
                 <p className="text-lg text-accent font-medium mb-1">
                     {author.title}
                 </p>

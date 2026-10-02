@@ -1,0 +1,37 @@
+type = "card"
+title = "Projects"
+description = "Selected academic, AI, embedded-systems, and software projects."
+
+[[items]]
+title = "Maadi AI Language Tutor — AI-Powered Language Learning Chatbot"
+subtitle = "Maadi Language Academy"
+date = "Aug 2026 – Present"
+content = "Designed and developed an AI-powered language learning chatbot for teaching support, language practice, and student feedback."
+tags = ["Artificial Intelligence", "Python", "Web Development", "EdTech"]
+image = "/projects/maadi-chatbot.png"
+
+[[items]]
+title = "AI-Based Condition Monitoring of Steam Turbine Oil"
+subtitle = "Collaboration with Tabriz Power Plant"
+date = "2026"
+content = "Collaborated with Tabriz Power Plant on applying artificial intelligence and machine learning techniques to the condition monitoring and analysis of steam turbine oil. The project focused on data-driven assessment of oil condition and supporting predictive maintenance decisions. The work was also developed into a Persian-language research paper submitted to the 33rd Iranian Conference on Electrical Engineering."
+tags = ["Artificial Intelligence", "Machine Learning", "Condition Monitoring", "Predictive Maintenance", "Steam Turbine", "Power Plant"]
+image = "/projects/turbine-oil-ai.jpg"
+
+[[items]]
+title = "Smart Interactive Robot"
+subtitle = "Sahand University of Technology"
+date = "2023 – 2024"
+content = "Developed a smart interactive robot using Raspberry Pi. Implemented facial recognition using neural-network models, object detection using YOLO-based models, and voice-detection and response capabilities."
+tags = ["Raspberry Pi", "Computer Vision", "YOLO", "Neural Networks", "Robotics"]
+image = "/projects/smart-robot.jpg"
+
+
+
+[[items]]
+title = "GPS-Based Vehicle Tracking System"
+subtitle = "Sahand University of Technology"
+date = "2023 – Present"
+content = "Developed a vehicle-tracking system using NodeMCU, NEO-6 GPS, and a SIM communication module. Implemented Wi-Fi-based data transmission to a server and SMS-based communication for location-data transfer."
+tags = ["NodeMCU", "GPS", "Embedded Systems", "IoT", "Wireless Communication"]
+image = "/projects/gps-tracking.jpg"

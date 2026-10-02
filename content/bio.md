@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Research Assistant specializing in artificial intelligence, quantum technologies, and intelligent engineering systems.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I hold a B.Sc. in Electrical Engineering and an M.Sc. in Telecommunications Systems from Sahand University of Technology. My research interests span machine learning, quantum algorithms, artificial intelligence, digital twins, and data-driven engineering, with a particular focus on analyzing complex datasets and developing intelligent computational solutions.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My recent work focuses on hybrid quantum-classical machine learning, explainable AI, financial machine learning and digital twins.
+
+I am particularly interested in developing practical and interpretable AI systems, exploring the role of quantum computing in real-world machine-learning applications, and collaborating on interdisciplinary research across AI, engineering, and quantum technologies.
